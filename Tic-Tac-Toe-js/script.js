@@ -33,13 +33,15 @@ boxes.forEach((box) => {
         // playerO
         box.innerText = "O";
         turnO= false;
-        box.classList.add("O");
+        // box.classList.add("O");
+        box.style.color="aqua";
        
     }else{
         // playerX
         box.innerText ="X";
         turnO=true;
-        box.classList.add("X");
+        // box.classList.add("X");
+        box.style.color="red";
       
     }
 
