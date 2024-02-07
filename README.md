@@ -32,7 +32,7 @@ JavaScript
 
 Installation
 
-Clone the repository: git clone
+Clone the repository: git clone https://github.com/vaibhavkanawade/Game-Dom-Js.git
 
 Navigate to the project directory: cd tic-tac-toe-rock-paper-scissors
 
